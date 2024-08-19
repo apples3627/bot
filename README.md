@@ -34,7 +34,9 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 1. Run the script using Python:
     ```bash
-    python your_script_name.py
+    python relaybot.py
+    or
+    python3 relaybot.py
     ```
 
 2. The bot will log in and start monitoring the source channel for new messages. Any new messages found will be relayed to the target channel.
