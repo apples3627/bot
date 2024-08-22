@@ -23,7 +23,7 @@ client = discord.Client(intents=intents)
 
 # 봇 사용자 토큰, 채널 ID 설정
 BOT_TOKEN = '{bot_Token}'
-USER_TOKEN = '{User_Token'
+USER_TOKEN = '{User_Token}'
 SOURCE_CHANNEL_ID = {serverID} #A서버
 TARGET_CHANNEL_ID = {serverID}
 last_message_id = None 
